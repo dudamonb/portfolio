@@ -70,8 +70,7 @@ body{
     background-color:#6d23a1 ;
     color: white;
     display: flex;
-    gap: 70em;
-
+    gap: 40em;
 }
 .icones{
     display: flex;
@@ -84,6 +83,8 @@ body{
 }
 #logomarca{
     padding: 1em;
+    display: block;
+    margin-left: 3em;
 }
 
  .rodapé{
